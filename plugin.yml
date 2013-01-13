@@ -1,0 +1,9 @@
+name: TimePromotion
+author: InnoKo
+version: 1.0
+main: me.innoko.timepromotion.TP
+softdepend: [GroupManager, StatsAndAchievements]
+commands:
+  timepromotion:
+    description: The main plugin command.
+    usage: /<command>

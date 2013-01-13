@@ -1,0 +1,7 @@
+general:
+  update delay: 10
+ranks:
+  yourStartingRank:
+    promotion: yourPromotedRank
+    time: 120
+    message: Congratulations, you have promoted for playing for 2 hours!
